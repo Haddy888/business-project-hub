@@ -1,0 +1,2 @@
+project_id,repository,path,branch,file_type,blob_sha,size_bytes,last_commit_sha,last_verified_utc,status,notes
+,,,,,,,,,NOT_AUDITED,Copy one row per tracked file after recursive tree inspection
